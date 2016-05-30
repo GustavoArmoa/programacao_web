@@ -1,0 +1,27 @@
+{
+  "name": "Atividade para a disciplina de programacao web",
+  "authors": [
+    "jhorzyto <jhorzyto@gmail.com>"
+  ],
+  "description": "Atividade para a disciplina de programacao web",
+  "main": "index.php",
+  "moduleType": [],
+  "keywords": [
+    "undb",
+    "web",
+    "php",
+    "mysql",
+    "html",
+    "javascript"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/Jhorzyto/programacao_web",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
