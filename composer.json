@@ -1,0 +1,16 @@
+{
+  "name": "CRUD com PHP/Mysql/HTML",
+  "description": "Atividade para a disciplina de programacao web",
+  "license": "GPLv2",
+  "authors": [
+    {
+      "name": "Jhordan Lima",
+      "email": "jhorzyto@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "CRUD\\" : "app"
+    }
+  }
+}

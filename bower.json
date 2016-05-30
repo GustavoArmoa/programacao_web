@@ -1,5 +1,5 @@
 {
-  "name": "Atividade para a disciplina de programacao web",
+  "name": "CRUD com PHP/Mysql/HTML",
   "authors": [
     "jhorzyto <jhorzyto@gmail.com>"
   ],
@@ -23,5 +23,13 @@
     "bower_components",
     "test",
     "tests"
-  ]
+  ],
+  "dependencies": {
+    "Materialize": "materialize#~0.97.6",
+    "angular": "1.5.5",
+    "angular-material-icons": "~0.7.0",
+    "barbara-js": "~1.1.1",
+    "angular-modal-service": "~0.9.10",
+    "angular-materialize": "~0.1.8"
+  }
 }
